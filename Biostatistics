@@ -1,0 +1,17 @@
+This book intends to provide an overview of biostatistics concepts and methodology through the use of statistical software. 
+It helps clinicians, health care and biomedical professionals who need to have basic knowledge of biostatistics 
+as they come across clinical data related to patient, drug and dosage requirement, treatment modalities in day to day life
+and they are required to take clinical and health care decisions based on the data.
+This book covers basic concepts involved in the field of Biostatistics such as descriptive statistics, inferential statistics,
+correlation and regression along with the advanced concepts such as factor analysis, cluster analysis, discriminant analysis and 
+survival analysis. Each
+topic is explained with the help of R statistical package (open source package). 
+One important note that the book will not discuss about the formulas and equations involved in the statistical concepts.
+Author assumes that the readers have basic understanding of excel as the sample datasets in the book are mostly excel based datasets
+and also have some clinical background
+www.ijsmi.com/book.php
+https://amzn.to/2xcpeT8
+
+Editor 
+International Journal of Statistics and Medical Informatics
+https://www.amazon.com/Essentials-Bio-Statistics-overview-help-Software-ebook/dp/B07GRBXX7D … (Kindle Edition)
