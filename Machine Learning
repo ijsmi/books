@@ -1,0 +1,19 @@
+Machine Learning: An overview with the help of R software
+Preface
+This book intends to provide an overview of Machine Learning and its algorithms & models with help of R software.
+Machine learning forms the basis for Artificial Intelligence which will play a crucial role in day to day life of
+human beings in the near future. A basic understanding of machine learning is required, as its application is widely seen 
+in different fields such as banks and financial sectors, manufacturing, aviation, transportation and medical field.
+The book covers machine learning classification algorithms such as K-Nearest Neighborhood, Naïve Bayes, Decision Trees
+and also Artificial Neural Networks and Support Vector Machines.
+It is recommended to refer author’s book on Application of Statistical Tools in Biomedical Domain: An Overview with Help of Software 
+(https://www.amazon.com/dp/1986988554) 
+and
+Essentials of Bio-Statistics: An overview with the help of Software https://www.amazon.com/dp/B07GRBXX7D 
+if you  need to familiarize yourself with the basic statistical knowledge. 
+
+Editor
+International Journal of Statistics and Medical Informatics
+www.ijsmi.com/book.php
+
+ 
